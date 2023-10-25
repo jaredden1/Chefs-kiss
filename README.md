@@ -38,8 +38,6 @@ James Redden [GitHub](https://github.com/jaredden1) | [LinkedIn](https://www.lin
 ## Acknowledgements:
 1. [Inspiration/template for visual design](https://www.figma.com/community/file/1224381031537447660)
 2. [Deployment support article](https://dev.to/stlnick/how-to-deploy-a-full-stack-mern-app-with-heroku-netlify-ncb?utm_source=dormosheio&utm_campaign=dormosheio)
-3. [Design for component tree by Reactree](https://marketplace.visualstudio.com/publishers/ReacTreeDev)
-4. Thank you, Lily Smith and Federico Rossi, for the impressions support! 
 
 
 ## Future Features: 
@@ -51,4 +49,4 @@ James Redden [GitHub](https://github.com/jaredden1) | [LinkedIn](https://www.lin
 5. Implement Auth0 Authorization. 
 6. Implement a Restaurant view that allows users to view all other users' impressions. 
 7. Implement the use of an OpenAI API that aggregates and summarizes all users' impressions.  
-8. Cloudinary support that allows users to upload images of the food or experience. 
+
