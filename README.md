@@ -36,8 +36,7 @@ James Redden [GitHub](https://github.com/jaredden1) | [LinkedIn](https://www.lin
 5. Yelp Fusion API 
 
 ## Acknowledgements:
-1. [Inspiration/template for visual design](https://www.figma.com/community/file/1224381031537447660)
-2. [Deployment support article](https://dev.to/stlnick/how-to-deploy-a-full-stack-mern-app-with-heroku-netlify-ncb?utm_source=dormosheio&utm_campaign=dormosheio)
+1. [Deployment support article](https://dev.to/stlnick/how-to-deploy-a-full-stack-mern-app-with-heroku-netlify-ncb?utm_source=dormosheio&utm_campaign=dormosheio)
 
 
 ## Future Features: 
