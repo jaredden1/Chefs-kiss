@@ -23,7 +23,7 @@ export default function About() {
         Our app is a web-based solution that enables you to search for restaurants in your desired location and preserve a list of your favorite dining spots. Experience a seamless journey to discovering and organizing your next great meals.
         <br />
         <br />
-        <a href="https://github.com/jhsu79/chefskiss" className="github-link"><strong>Check out the Github Repo here!</strong></a>
+        <a href="https://github.com/jaredden1/Chefs-kiss" className="github-link"><strong>Check out the Github Repo here!</strong></a>
       </p>
 
       <h3 className="about-subheader">Technological Stack</h3>

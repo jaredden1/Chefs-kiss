@@ -3,28 +3,30 @@ A MERN Stack app that allows users to search for top rated restaurants in an are
 
 ## Credits:
 Created by Joshua Hsu and James Redden 
-Joshua N Hsu [GitHub](https://github.com/jhsu79) | [LinkedIn](htttps://www.linkedin.com/in/joshuanhsu)
+
+Joshua N Hsu [GitHub](https://github.com/jhsu79) | [LinkedIn](htttps://www.linkedin.com/in/joshuanhsu/)
+
 James Redden [GitHub](https://github.com/jaredden1) | [LinkedIn](https://www.linkedin.com/in/jamesredden1/)
 
 
 ## Getting Started:
 
 ### How Do I Use Chef's Kiss? 
-1. Click on this link to access the app: [A Chef's Kiss](https://thechefskiss.netlify.app/)
+1. Click on this link to access the app: [A Chef's Kiss] (Will be back soon) <!-- add new link here in the () -->
 
 2. On the search page, enter a location (neighborhood, city, state, country) you'd like to explore.    
-![image](https://github.com/jhsu79/chefskiss/assets/137417888/5bb2e8b3-c045-4498-a032-91f4681f37d9)
+<!-- ![image](https://github.com/jhsu79/chefskiss/assets/137417888/5bb2e8b3-c045-4498-a032-91f4681f37d9) -->
 
 3. Click Search. This will populate list of 5 restaurants based on your search criteria. 
-<img width="1483" alt="Screenshot 2023-09-11 at 10 22 40 PM" src="https://github.com/jhsu79/chefskiss/assets/137417888/9e7a799c-60f1-4e42-8f37-d24ebe3df0ad">
+<img width="1483" alt="" src="">
 
 4. Select a restaurant you'd like to save to 'Your Restaurants'. 
 
 5. On the home page, you can view all the details about the restaurants you've saved. 
-<img width="1479" alt="Screenshot 2023-09-11 at 10 23 17 PM" src="https://github.com/jhsu79/chefskiss/assets/137417888/0cfad567-0df0-4df5-975c-0ae78ccb6ce8">
+<img width="1479" alt="" src="">
 
 6. On each restaurant, you can also add your own impressions or remove the restaurant from your list.
-<img width="1496" alt="Screenshot 2023-09-11 at 10 21 33 PM" src="https://github.com/jhsu79/chefskiss/assets/137417888/0360fc8e-7f17-4fee-99c1-d07726377946">
+<img width="1496" alt="" src="">
 
 
 ## Technologies Used:
