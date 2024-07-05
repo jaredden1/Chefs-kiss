@@ -2,12 +2,11 @@
 A MERN Stack app that allows users to search for top rated restaurants in an area and save those restaurants. 
 
 ## Credits:
-Created by Joshua Hsu and James Redden 
-
-Joshua N Hsu [GitHub](https://github.com/jhsu79) | [LinkedIn](https://www.linkedin.com/in/joshuanhsu/)
+Created by James Redden and Joshua Hsu
 
 James Redden [GitHub](https://github.com/jaredden1) | [LinkedIn](https://www.linkedin.com/in/jamesredden1/)
 
+Joshua N Hsu [GitHub](https://github.com/jhsu79) | [LinkedIn](https://www.linkedin.com/in/joshuanhsu/)
 
 ## Getting Started:
 
@@ -37,7 +36,7 @@ James Redden [GitHub](https://github.com/jaredden1) | [LinkedIn](https://www.lin
 
 ## Future Features: 
 
-### These future features and much more were all added to my remake of Chef's Kiss known as [Urban Forager](https://github.com/jaredden1/The-Urban-Forager).
+### These future features and much more were all added to James Redden's solo remake of Chef's Kiss known as [Urban Forager](https://github.com/jaredden1/The-Urban-Forager).
 
 1. Separate frontend pages into further React Components (i.e. 'Restaurant Lists, Buttons, and Inputs')
 2. Add a Show Page and implement a feature to allow users to add their impressions of a restaurant.  
