@@ -15,19 +15,14 @@ James Redden [GitHub](https://github.com/jaredden1) | [LinkedIn](https://www.lin
 1. Click on this link to access the app: [A Chef's Kiss] (Will be back soon) <!-- add new link here in the () -->
 
 2. On the search page, enter a location (neighborhood, city, state, country) you'd like to explore.    
-<!-- ![image](https://github.com/jhsu79/chefskiss/assets/137417888/5bb2e8b3-c045-4498-a032-91f4681f37d9) -->
 
 3. Click Search. This will populate list of 5 restaurants based on your search criteria. 
-<img width="1483" alt="" src="">
 
 4. Select a restaurant you'd like to save to 'Your Restaurants'. 
 
 5. On the home page, you can view all the details about the restaurants you've saved. 
-<img width="1479" alt="" src="">
 
 6. On each restaurant, you can also add your own impressions or remove the restaurant from your list.
-<img width="1496" alt="" src="">
-
 
 ## Technologies Used:
     
@@ -40,8 +35,9 @@ James Redden [GitHub](https://github.com/jaredden1) | [LinkedIn](https://www.lin
 ## Acknowledgements:
 1. [Deployment support article](https://dev.to/stlnick/how-to-deploy-a-full-stack-mern-app-with-heroku-netlify-ncb?utm_source=dormosheio&utm_campaign=dormosheio)
 
-
 ## Future Features: 
+
+### These future features and much more were all added to my remake of Chef's Kiss known as [Urban Forager](https://github.com/jaredden1/The-Urban-Forager).
 
 1. Separate frontend pages into further React Components (i.e. 'Restaurant Lists, Buttons, and Inputs')
 2. Add a Show Page and implement a feature to allow users to add their impressions of a restaurant.  
