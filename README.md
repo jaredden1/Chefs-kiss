@@ -4,7 +4,7 @@ A MERN Stack app that allows users to search for top rated restaurants in an are
 ## Credits:
 Created by Joshua Hsu and James Redden 
 
-Joshua N Hsu [GitHub](https://github.com/jhsu79) | [LinkedIn](htttps://www.linkedin.com/in/joshuanhsu/)
+Joshua N Hsu [GitHub](https://github.com/jhsu79) | [LinkedIn](https://www.linkedin.com/in/joshuanhsu/)
 
 James Redden [GitHub](https://github.com/jaredden1) | [LinkedIn](https://www.linkedin.com/in/jamesredden1/)
 
